@@ -1,11 +1,11 @@
 python train.py \
-    -m output/0a5c013435 \
-    -s /nas/shared/pjlab-lingjun-landmarks/liaozimu/data/scannet/0a5c013435/dslr \
+    -m output/c9bf4c8b62 \
+    -s /home/vinai/Workspace/phat-intern-dev/VinAI/Fisheye-GS/scannetpp/c9bf4c8b62/dslr \
     --images image_undistorted_fisheye \
     --colmaps colmap \
-    --iterations 30000 \
-    --save_iterations 10000 20000 30000\
-    --test_iterations 10000 20000 30000 \
+    --iterations 400000 \
+    --save_iterations 50000 100000 150000  200000  250000 300000 350000  400000\
+    --test_iterations 50000 100000 150000  200000  250000 300000 350000  400000\
     --bs 3 \
     --ds 1 \
     -r 1 \
