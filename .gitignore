@@ -17,3 +17,8 @@ core.*
 
 ./submodules/panorama_*
 ./submodules/fisheye_gs_rasterizer_old
+output/
+scannetapp/
+fs_400k.zip
+fs.zip
+scannet_demo.zip
