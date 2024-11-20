@@ -87,3 +87,6 @@ Please follow the LICENSE of <a href='https://github.com/graphdeco-inria/gaussia
 
 ## Acknowledgement
 We thank all authors from <a href='https://github.com/graphdeco-inria/gaussian-splatting'>3D-GS</a> for presenting such an excellent work.
+
+## Note
+Data path: "scannetapp/c9bf4c8b62/dslr"
