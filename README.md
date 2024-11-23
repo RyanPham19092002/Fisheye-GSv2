@@ -89,4 +89,4 @@ Please follow the LICENSE of <a href='https://github.com/graphdeco-inria/gaussia
 We thank all authors from <a href='https://github.com/graphdeco-inria/gaussian-splatting'>3D-GS</a> for presenting such an excellent work.
 
 ## Note
-Data path: "scannetapp/c9bf4c8b62/dslr"
+Data path: **"/home/vinai/Workspace/phat-intern-dev/VinAI/Fisheye-GS/scannetapp/c9bf4c8b62/dslr"**
